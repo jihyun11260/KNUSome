@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "792091020866",
+    "firebase_url": "https://knusome.firebaseio.com",
+    "project_id": "knusome",
+    "storage_bucket": "knusome.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792091020866:android:01136c6944ab17401d27db",
+        "android_client_info": {
+          "package_name": "com.a.knusome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792091020866-v2nbm1rfcnf8bl9lmaso4fdatcbla5ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a.knusome",
+            "certificate_hash": "7480ef7f77f77e666b0723a2e311226369edf309"
+          }
+        },
+        {
+          "client_id": "792091020866-eaoabgg2qtddq6t78hcseg47kf5m81op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpalqAmhGh05AGoy81vC6-EjkMkreEvH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792091020866-eaoabgg2qtddq6t78hcseg47kf5m81op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
